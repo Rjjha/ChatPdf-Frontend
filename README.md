@@ -33,8 +33,7 @@ A full-stack application enabling users to query and upload PDF files, leveragin
 | ![as6](https://github.com/user-attachments/assets/24861687-7b9d-44d1-82f8-9854c56e5f9f) | ![as5](https://github.com/user-attachments/assets/29477cf0-ad3e-4214-aa04-d4f550ddfbde) | ![as4](https://github.com/user-attachments/assets/ba631ce4-8bda-4035-8f7a-45b5be5332ee) |
 |------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 
-
-
+----
 
 ## Prerequisites
 
