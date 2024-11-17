@@ -15,6 +15,25 @@ A full-stack application enabling users to query and upload PDF files, leveragin
 
 ----
 
+## Functionalities
+
+### Homepage
+![as1](https://github.com/user-attachments/assets/15048e3e-0207-4967-92a3-4c17b67fd532)
+
+### Uploading a file
+![as2](https://github.com/user-attachments/assets/5c046282-766a-46bf-8428-230792af1699)
+
+### Getting Result
+![as3](https://github.com/user-attachments/assets/d876fbd6-44e0-4b0a-b2a2-59335803351b)
+
+### Getting History
+
+| ![as5](https://github.com/user-attachments/assets/35796b5d-6ac3-4337-89f5-6e7109b64d91) | ![as4](https://github.com/user-attachments/assets/6c8d61a9-a7df-42da-9466-5455798ec49b) |
+|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+
+
+
+
 ## Prerequisites
 
 Make sure you have the following installed:
