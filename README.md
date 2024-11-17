@@ -1,7 +1,7 @@
 
 # ChatPdf
-
-A modern web application built using **Vite**, **ReactJS**, **TypeScript**, and **Tailwind CSS** for fast development, type safety, and responsive design.
+**PDF Query Assistant**  
+A full-stack application enabling users to query and upload PDF files, leveraging a Retrieval-Augmented Generation (RAG) system with OpenAI’s API. Built with a React frontend, FastAPI backend, and MongoDB for query history storage, it provides seamless interaction and intelligent responses based on PDF content.
 
 ## Features
 
