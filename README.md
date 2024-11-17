@@ -4,12 +4,16 @@
 A full-stack application enabling users to query and upload PDF files, leveraging a Retrieval-Augmented Generation (RAG) system with OpenAI’s API. Built with a React frontend, FastAPI backend, and MongoDB for query history storage, it provides seamless interaction and intelligent responses based on PDF content.
 
 ## Features
-
-- 🚀 **Vite**: Blazing fast development and build tooling.
-- ⚛️ **ReactJS**: Component-based UI for dynamic applications.
-- 📜 **TypeScript**: Static typing for enhanced development experience.
-- 🎨 **Tailwind CSS**: Utility-first CSS framework for rapid UI design.
 ---
+1. **Upload PDF**: Users can upload a PDF file through an intuitive interface to enable the system to process its content.
+
+2. **Input Query**: Users can type in their questions related to the uploaded PDF directly in the query box on the frontend.
+
+3. **Receive Responses**: The application retrieves relevant information from the PDF using the RAG system and OpenAI’s API, providing accurate and contextual answers.
+
+4. **Query History**: Users can view past queries and responses stored in MongoDB for reference, ensuring continuity and easy access to previously searched information.
+
+----
 
 ## Prerequisites
 
